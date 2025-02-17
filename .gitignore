@@ -1,3 +1,7 @@
 *.swp
 *.swo
 __pycache__
+
+
+.idea
+data_helpers/example_data*
