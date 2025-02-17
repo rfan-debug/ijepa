@@ -3,7 +3,7 @@ from concurrent.futures.process import ProcessPoolExecutor
 from classes import IMAGENET2012_CLASSES
 import os
 
-INPUT_PATH ="./train_images"
+INPUT_PATH ="data/train_images"
 OUTPUT_PATH = "/home/ruixi/datasets/imagenet_full_size/061417/train"
 
 def copy_file(file_name):
